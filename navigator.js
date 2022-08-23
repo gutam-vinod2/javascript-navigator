@@ -1,0 +1,1 @@
+document.getElementById("intro").innerHTML ="navigator.gamesenabled is" + navigator.gamesenabled;
